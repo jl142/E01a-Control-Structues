@@ -79,6 +79,7 @@ Run the program.
 
 *Extra credit:* open main10.py. Add a comment to each line describing what it is doing (a comment follows a pound sign [#]). 
 
-Commit your changes and push them back to the repository. 
+Commit your changes and push them back to the repository.
+
 
 Did you do the extra credit?
